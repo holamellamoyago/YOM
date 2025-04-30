@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contenido 6 en master
+=======
+contenido fichero 6 en rama 2
+>>>>>>> rama2
