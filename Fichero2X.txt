@@ -1,4 +1,8 @@
 Contenido 2-X modicado 2
 
 Otro contenido añadido
+<<<<<<< HEAD
 contenido añadido mas
+=======
+Fichero 2 modificado en otro repositorio
+>>>>>>> b0b6c1fe18a9124327a4080357a18928c47f1206
